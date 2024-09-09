@@ -70,7 +70,7 @@ include 'db.php'; // Include your database connection
 
         <!-- Meet the Team -->
         <div class="bg-white p-8 rounded-lg shadow-md">
-            <h3 class="text-2xl font-semibold mb-4">Meet the Team</h3>
+            <h3 class="text-2xl font-semibold mb-4">Meet the Teams</h3>
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
                 <div class="text-center">
                     <img src="images/joe.PNG" alt="Team Member" class="w-32 h-32 rounded-full mx-auto">
